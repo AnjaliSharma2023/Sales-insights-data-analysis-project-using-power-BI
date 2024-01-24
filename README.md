@@ -1,4 +1,5 @@
 **Sales insights data analysis project using power BI**
+![image](https://github.com/AnjaliSharma2023/Sales-insights-data-analysis-project-using-power-BI/assets/123668096/6d8dc57f-53cb-4e9a-bdaa-033246cb6f34)
 
 AtliQ Hardware company
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as Excel stores, Surge stories across India. AtliQ Hardware head office is situated in Delhi, India and they have many regional offices throughout India.
